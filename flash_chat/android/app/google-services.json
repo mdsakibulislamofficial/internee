@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1097702670486",
+    "project_id": "flash-chat-9508c",
+    "storage_bucket": "flash-chat-9508c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097702670486:android:9e6b3eb4ac4783f439c2b7",
+        "android_client_info": {
+          "package_name": "com.mdsakibulislam.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097702670486-16lvliguiuo0r5sma6q5jbabpaaqbl4d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk4oblzT0h9zHvwW0U8Z_faEfWRH0xy_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097702670486-16lvliguiuo0r5sma6q5jbabpaaqbl4d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
